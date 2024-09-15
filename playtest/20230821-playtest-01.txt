@@ -1,0 +1,75 @@
+
+Playtest 1
+
+21 Aug 2023
+
+Adam B , Gary K
+
+2 player
+start in Paris
+3 cards
+
+Cards with
+3 regions
+Action Points
+Priority
+
+AP
+Move 1
+Establish Contract
+Build
+
+
+Build costs 1$ and 1 stone
+Build at most 2
+
+
+Turn
+Draw hand up to 3
+Select card
+Simultaneous reveal
+Add resources to board (in Prio order)
+Take Actions (in Prio order)
+
+
+
+
+Notes
+Better colors for map
+
+Divide Paris into separate entries on card
+
+Should there be auto build at end of turn?
+	That doesn't cost an action
+
+Establish Contract & Build need to be same action since there is no way to track
+established contracts other than the record of the build at that site.
+	Phrase as: initial build on new site costs 2 APs
+
+Terminology: Region vs Building Site
+
+
+Placing money easy, fun
+Placing stone needs thinking
+
+Place money/stone, then spend money/stone. Are they effectively the same resource?
+	They need to arrive or leave at different times to feel different.
+
+Wasting action point doesn't feel good.
+	Is this a problem? Using exactly all APs is an interesting puzzle.
+
+What about a hand with only 2 cards?
+What about needing to spend all 3 cards before re-draw
+
+Can movement be made more interesting?
+	Why not always choose the shortest path?
+Can there be additional texture on the map?
+	Rivers?
+
+Next test needs:
+Collapse
+Scoring
+
+
+Why not design game with all cards?
+How important is the movement on the map?
